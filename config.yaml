@@ -1,0 +1,7 @@
+path: C:\Users\pauli\OneDrive\Bureau\PNU\4 - IA Programming\project\Dataset
+train : train/images
+val: valid/images
+test: test/images
+
+names: 
+    0: koala
